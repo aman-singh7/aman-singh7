@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-singh7" alt="aman-singh7" /> </p>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=aman-singh7&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aman-singh7&hide=css,java,html&theme=tokyonight&line_height=27">
+</p>
+  
